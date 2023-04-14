@@ -1,6 +1,6 @@
 {
     "name": "Test Plugin",
-    "description": "A plugin for use for testing.",
+    "description": "A plugin for testing.",
     "authors": [
         {
             "name": "usr",
