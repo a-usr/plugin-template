@@ -1,1 +1,1 @@
-{"name":"Test Plugin","description":"A plugin for testing.","authors":[{"name":"usr","id":"YOUR_ID_HERE"}],"main":"index.js","vendetta":{"icon":"ic_rich_presence_dark_12px"},"hash":"6cb6594aa032b83a1f24c2bb3d63e8aeb8e1652e0361e7d7a0e415850cc9c406"}
+{"name":"Test Plugin","description":"A plugin for testing.","authors":[{"name":"usr","id":"YOUR_ID_HERE"}],"main":"index.js","vendetta":{"icon":"ic_rich_presence_dark_12px"},"hash":"63e5392f6df217a37f89e96a713d65393f63ce038273e491db96bc10de3e0384"}
