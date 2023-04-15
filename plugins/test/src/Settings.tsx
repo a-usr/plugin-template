@@ -5,19 +5,4 @@ export default () => (
     <FormText>
         Hello, world!
     </FormText>
-    <General>
-        General
-    </General>
-    <Alert>
-        Alert
-    </Alert>
-    <Button>
-        Button
-    </Button>
-    <HelpMessage>
-        Helpmsg
-    </HelpMessage>
-    <SafeAreaView>
-        SafeAreaView
-    </SafeAreaView>
 )
